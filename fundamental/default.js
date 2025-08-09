@@ -1,4 +1,4 @@
-// porameter default diberikan di dalam tanda kurung biasa
+// parameter default diberikan di dalam tanda kurung biasa
 function mintaData(x = 10) {
   console.log(x);
 }
